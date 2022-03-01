@@ -24,13 +24,13 @@ The coronavirus pandemic has drastically altered our lives. The general populati
 
 ### Algorithm Used
 
-- Naive Bayes Classifiers Algorithm
+- Naive Bayes Classifiers Algorithm<br/>
   &emsp;&emsp; Naive Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems. It assumes that the occurrence of a certain feature is independent of the occurrence of other features. Each feature individually contributes to identify its output without depending on each other.
 
-- K-Nearest Neighbor(KNN) Algorithm
+- K-Nearest Neighbor(KNN) Algorithm<br/>
   &emsp;&emsp; K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. It assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories. KNN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems. We're attempting to predict TV show and movie ratings using both classification methods.
 
-- Apriori Algorithm
+- Apriori Algorithm<br/>
   &emsp;&emsp; The Apriori algorithm uses frequent itemsets to generate association rules, and it is designed to work on the databases that contain transactions. With the help of these association rule, it determines how strongly or how weakly two objects are connected. This algorithm uses a breadth-first search and Hash Tree to calculate the itemset associations efficiently. It is the iterative process for finding the frequent itemsets from the large dataset.
 
 ### Tools Used
