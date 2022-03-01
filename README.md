@@ -10,7 +10,6 @@ pip install -r requirements.txt
 ```
 
 - To run the files go to jupyter notebook and run the files.
-  <<<<<<< HEAD
 
 ## About the Project
 
